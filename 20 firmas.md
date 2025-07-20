@@ -1,15 +1,15 @@
 using System;
+
 using System.Collections.Generic;
 
-class Persona {
+class Persona 
+{
 
     public string Nombre;
     public int Edad;
 }
 
-class Program
-{
-
+class Program {
 
     static void Main() {
         Saludar();
