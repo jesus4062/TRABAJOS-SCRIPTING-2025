@@ -1,14 +1,11 @@
 TALLER#1(PRIMERA PARTE)
 
-Perfecto. A partir de la imagen que compartiste, voy a seleccionar 5 ejercicios para programar en C# y luego responderé 2 preguntas teóricas, cumpliendo con los requerimientos.
+
+###  **EJERCICIOS EN C#**
 
 ---
 
-### ✅ **EJERCICIOS EN C#**
-
----
-
-#### 🧮 **1. Recorra una matriz nxm y reemplace los valores negativos por un número positivo**
+####  **1. Recorra una matriz nxm y reemplace los valores negativos por un número positivo**
 
 ```csharp
 int[,] matriz = {
@@ -36,7 +33,7 @@ for (int i = 0; i < matriz.GetLength(0); i++) {
 
 ---
 
-#### 🔢 **2. Calcule el promedio de los números positivos de un array de números flotantes**
+####  **2. Calcule el promedio de los números positivos de un array de números flotantes**
 
 ```csharp
 float[] numeros = {-2.5f, 3.0f, 4.5f, -1.1f, 6.2f};
@@ -56,7 +53,7 @@ Console.WriteLine("Promedio de positivos: " + promedio);
 
 ---
 
-#### 🔤 **3. Dada una matriz de cadenas, cree una cadena concatenando sus celdas de izquierda a derecha y de arriba hacia abajo**
+####  **3. Dada una matriz de cadenas, cree una cadena concatenando sus celdas de izquierda a derecha y de arriba hacia abajo**
 
 ```csharp
 string[,] matriz = {
@@ -76,7 +73,7 @@ Console.WriteLine("Cadena resultante: " + resultado.Trim());
 
 ---
 
-#### 🔁 **4. Lea una matriz nxn de chars e imprima la matriz original y la matriz con filas invertidas**
+####  **4. Lea una matriz nxn de chars e imprima la matriz original y la matriz con filas invertidas**
 
 ```csharp
 char[,] matriz = {
@@ -108,7 +105,7 @@ for (int i = n - 1; i >= 0; i--) {
 
 ---
 
-#### ➕ **5. Lea una matriz cuadrada y calcule suma de fila/columna de la mitad**
+####  **5. Lea una matriz cuadrada y calcule suma de fila/columna de la mitad**
 
 ```csharp
 int[,] matriz = {
@@ -134,9 +131,9 @@ Console.WriteLine($"Suma de columna central: {sumaCol}");
 
 ---
 
-### 📘 **PREGUNTAS DE TEORÍA**
+###  **PREGUNTAS DE TEORÍA**
 
-#### ❓1. ¿Qué es una función en programación?
+#### 1. ¿Qué es una función en programación?
 
 Una **función** es un bloque de código reutilizable que realiza una tarea específica. En C#, una función se define con un tipo de retorno, un nombre y puede tener parámetros. Permite dividir un programa en partes lógicas más manejables, evitando la repetición de código.
 
@@ -150,7 +147,7 @@ int Sumar(int a, int b) {
 
 ---
 
-#### ❓2. ¿Cuál es la diferencia entre un ciclo `for` y un ciclo `while`?
+#### 2. ¿Cuál es la diferencia entre un ciclo `for` y un ciclo `while`?
 
 * `for`: se usa cuando **se conoce** de antemano el número de iteraciones.
 * `while`: se usa cuando **no se sabe** cuántas veces se repetirá, pero se tiene una condición.
@@ -175,5 +172,4 @@ while (i < 5) {
 
 ---
 
-¿Te gustaría que empaquetara este código en un archivo `.cs` o en un proyecto de Visual Studio?
 
