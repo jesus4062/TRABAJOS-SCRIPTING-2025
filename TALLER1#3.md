@@ -10,3 +10,4 @@
 <img width="1035" height="495" alt="Captura de pantalla 2025-07-21 064911" src="https://github.com/user-attachments/assets/324869a1-4361-4337-ac23-c45bd05903e7" />
 <img width="1047" height="448" alt="Captura de pantalla 2025-07-21 064804" src="https://github.com/user-attachments/assets/85cfece2-6566-4ca5-9bf6-d6252a9ad25b" />
 <img width="1011" height="478" alt="Captura de pantalla 2025-07-21 064723" src="https://github.com/user-attachments/assets/5487c55d-bbf6-4a4e-b847-59128ef75aea" />
+<img width="1109" height="499" alt="image" src="https://github.com/user-attachments/assets/848fab9f-8275-4667-b3f5-5c235052bc9e" />
